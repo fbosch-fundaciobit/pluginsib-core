@@ -5,7 +5,7 @@
   <artifactId>pluginsib-core</artifactId>
   <packaging>jar</packaging>
   <version>2.0.0</version>
-  <name>FundacioBit PluginsIB - Core</name>
+  <name>PluginsIB-Core</name>
   <!--Repositoris de us general-->
   <repositories>
     <!--Gestió de documentacio-->
